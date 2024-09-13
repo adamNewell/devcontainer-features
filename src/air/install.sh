@@ -16,7 +16,7 @@ ensure_nanolayer nanolayer_location "v0.5.6"
 $nanolayer_location \
   install \
   devcontainer-feature \
-  "ghcr.io/devcontainers-contrib/features/gh-release:1.0.23" \
-  --option repo="air-verse/air" --option binaryNames="air" --option version="$VERSION"
-
+  "ghcr.io/devcontainers-contrib/features/gh-release:1.0.25" \
+  --option repo="air-verse/air" --option binaryNames="air" --option version="$VERSION" \
+  --option assetRegex="air_[0-9]+.[0-9]+.[0-9].*.tar.gz"
 echo "Done!"

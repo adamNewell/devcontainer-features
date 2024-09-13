@@ -1,8 +1,8 @@
 {
     "id": "air",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "name": "Air (via GitHub Release)",
-    "documentationURL": "https://github.com/adamNewell/devcontainer-features/tree/main/src/air",
+    "documentationURL": "https://github.com/adamNewell/devcontainer-features/tree/main/",
     "description": "https://github.com/air-verse/air",
     "options": {
       "version": {

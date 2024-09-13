@@ -6,7 +6,7 @@ Example DevContainer Usage
 
 ```json
 "features": {
-  "ghcr.io/adamNewell/devcontainer-features/air:0": {}
+  "ghcr.io/adamNewell/devcontainer-features/air:latest": {}
 }
 ```
 
