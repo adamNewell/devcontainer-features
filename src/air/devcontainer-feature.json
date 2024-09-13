@@ -1,0 +1,20 @@
+{
+    "id": "air",
+    "version": "0.1.0",
+    "name": "Air (via GitHub Release)",
+    "documentationURL": "https://github.com/adamNewell/devcontainer-features/tree/main/src/air",
+    "description": "https://github.com/air-verse/air",
+    "options": {
+      "version": {
+        "default": "latest",
+        "description": "Select the version to install.",
+        "proposals": [
+          "latest"
+        ],
+        "type": "string"
+      }
+    },
+    "installsAfter": [
+      "ghcr.io/devcontainers-contrib/features/gh-release"
+    ]
+  }
