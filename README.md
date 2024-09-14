@@ -1,4 +1,4 @@
-# Templ (via GitHub Releases) (air)
+# Air (via GitHub Releases) (air)
 
 <https://github.com/air-verse/air>
 
